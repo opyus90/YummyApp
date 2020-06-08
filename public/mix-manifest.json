@@ -1,0 +1,14 @@
+{
+    "/js/main-app.js": "/js/main-app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/blog.css": "/css/blog.css",
+    "/css/news.css": "/css/news.css",
+    "/css/contact.css": "/css/contact.css",
+    "/css/recipe.css": "/css/recipe.css",
+    "/css/recipes.css": "/css/recipes.css",
+    "/js/main-blog.js": "/js/main-blog.js",
+    "/js/main-contact.js": "/js/main-contact.js",
+    "/js/main-news.js": "/js/main-news.js",
+    "/js/main-recipe.js": "/js/main-recipe.js",
+    "/js/main-recipes.js": "/js/main-recipes.js"
+}
